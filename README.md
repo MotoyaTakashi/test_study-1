@@ -7,7 +7,7 @@ streamlitによる直感的なUI作成
 
 ## 主な機能
 
-### 1. マルチLLMプロバイダー対応
+### 1. マルチLLMプロバイダー対応 1
 - vLLM（ローカルLLMサーバー - Qwen 2.5 72B）
 - OpenAI（GPT-4 Turbo）
 - Google Gemini（Gemini 2.0 Flash Lite）
